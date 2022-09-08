@@ -1,0 +1,37 @@
+## **Topic: College study and grades**
+
+**Q1. what factors affects children's average grade? (G1-3) -- money
+
+a1. relationship between extra paid classes (S) and children's grade (AF, AG, AH)
+
+a2. parents' job and internet availability
+
+a3. relationship between study time and grade
+
+a4. relationship between extra paid class & grade
+
+a5. parents' job & extra paid class
+
+# -----------------------------------
+**Q2. What are the reasons for the higher number of failures ? -- time management
+
+a1. relationship between absences vs failures
+
+a2. workday & weekend alcohol intake and failures
+
+a3. which schools (B) have more students with the high number of absences ?
+
+a4. relationship between the number of failures and travel time
+
+a5. relationship between failures and going out
+
+# -----------------------------------
+**Q3. Does family background affect students educational achievements? -- family
+
+a1. relationship between parents educational level and G3
+
+a2. relationship between family size and G3
+
+a3. relationship between family educational support (famsup) & family relationship (famrel)
+
+a4. relationship between Pstatus and Grade (G1-G3)
